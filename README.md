@@ -47,7 +47,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p><img width="2414" height="1686" alt="image" src="https://github.com/user-attachments/assets/e5592954-00fd-4a0f-b317-013a17079bf2" />
 
-</p>
+</p><img width="2194" height="1242" alt="image" src="https://github.com/user-attachments/assets/91951817-b0f6-4cbd-b90a-de4d2e0aeae4" />
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
