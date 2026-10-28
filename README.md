@@ -21,10 +21,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Deploy azure virtual machines- create a windows server 2025 virtual machine to serve as the domain controller. create a windows 11 client virtual machine configure the virtual network, subnet mask, and network security settings to allow required communication between the machines.
+- Step 2: install and configure active directory- Install the active directory domain services(AD DS) role on the windows server.
+- Step 3: create users and configure the domain- create organizational units(OUs), user accounts, and security gorups in active directory
+- Step 4: test and verify active directory sign in to the windows 11 client using a domain user account. verify domain connectivity, dns resolution, and user authentication
 
 <h2>Deployment and Configuration Steps</h2>
 
