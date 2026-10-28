@@ -41,7 +41,7 @@ In this figure: Installing and verifying active directory domain services and DN
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configured Active Directory Users and computers to manage user accounts and organize resources within the mydomain.com domain. created and organized organizational units (OUs) including _ADMINS, _CLIENTS, _EMPLOYEES, and _GROUPS, to seperate users, computers, and administrative resources.
 </p>
 <br />
 
