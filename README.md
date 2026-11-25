@@ -48,7 +48,7 @@ Configured Active Directory Users and computers to manage user accounts and orga
 <img width="1462" height="1184" alt="image" src="https://github.com/user-attachments/assets/dfc48ccf-81e8-47d0-bdff-86c131358163"
  /><img width="1884" height="1192" alt="image" src="https://github.com/user-attachments/assets/ba4e9b0a-c5a2-411d-8f3a-4bad0510c91f"
  /><img width="1884" height="1192" alt="image" src="https://github.com/user-attachments/assets/56c8ddb9-95e0-403a-a904-f8593fae0209"
- />
+ /> Step 3: I configured folder permissions in Active directory to control which users and groups can access shared folders. I assigned the appropriate permissions to the Accounting group so authorized employees could access the Accounting folder. I also configured the restricted shared folder so unauthorized users would not have access. This helps protect company information and ensures employees only have access to the files they need to perform their jobs.
  />
  />
 
