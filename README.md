@@ -54,6 +54,7 @@ Configured Active Directory Users and computers to manage user accounts and orga
 
 
 <p><img width="1980" height="1308" alt="image" src="https://github.com/user-attachments/assets/7efcb9c9-c2d4-4f85-a18c-032aba19e245" />
+<img width="2226" height="1256" alt="image" src="https://github.com/user-attachments/assets/b218a5fc-89ff-45ac-be61-bf8d0b1ffc3a" />
 
 Tested active directory configuration by reviewing the windows user account and using PowerShell to verify DNS resolution for the domain (i have a accident with the command prompt showing a non existent domain because i changed the dns but it still is connected to the dc-1-domain controller vm)
 </p>
