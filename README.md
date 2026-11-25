@@ -38,6 +38,7 @@ In this figure: Installing and verifying active directory domain services and DN
 <br />
  />
 <img width="2308" height="1364" alt="image" src="https://github.com/user-attachments/assets/11755b78-f000-47b0-8636-b1ed0c7f9f55" />
+<img width="2308" height="1364" alt="image" src="https://github.com/user-attachments/assets/f6cbe700-b1b0-4ad9-9ef0-fb36878727bb" />
 
 </p>
 <p>
