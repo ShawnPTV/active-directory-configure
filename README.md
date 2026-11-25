@@ -47,6 +47,8 @@ Configured Active Directory Users and computers to manage user accounts and orga
 <br />
 
 <img width="1462" height="1184" alt="image" src="https://github.com/user-attachments/assets/dfc48ccf-81e8-47d0-bdff-86c131358163" />
+<img width="1884" height="1192" alt="image" src="https://github.com/user-attachments/assets/ba4e9b0a-c5a2-411d-8f3a-4bad0510c91f" />
+<img width="1884" height="1192" alt="image" src="https://github.com/user-attachments/assets/56c8ddb9-95e0-403a-a904-f8593fae0209" />
 
 </p><img width="2194" height="1242" alt="image" src="https://github.com/user-attachments/assets/91951817-b0f6-4cbd-b90a-de4d2e0aeae4" />
 
