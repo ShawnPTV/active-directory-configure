@@ -36,8 +36,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 In this figure: Installing and verifying active directory domain services and DNS roles in windows server manager. I had it installed already from a recent lab but this is one of the early steps in configuring active directory
 </p>
 <br />
-
-<p><img width="2414" height="1686" alt="image" src="https://github.com/user-attachments/assets/a9fb1d54-effd-44c1-a7f4-ed12e9803ead" />
+ />
+<img width="2308" height="1364" alt="image" src="https://github.com/user-attachments/assets/11755b78-f000-47b0-8636-b1ed0c7f9f55" />
 
 </p>
 <p>
