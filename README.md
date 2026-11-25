@@ -42,7 +42,7 @@ In this figure: Installing and verifying active directory domain services and DN
 
 </p>
 <p>
-Configured Active Directory Users and computers to manage user accounts and organize resources within the mydomain.com domain. created and organized organizational units (OUs) including _ADMINS, _CLIENTS, _EMPLOYEES, and _GROUPS, to seperate users, computers, and administrative resources.
+Step 2: create organizational units, users, and security groups I created Organzational units (OUs) in active directory to organize company users and administrators. I created user accounts for employees, including accounting users, and organized them into the appropriate OUs. I also created security groups to make managing user access and permissions easier. this helps keep active directory organized and allows administrators to manage employee accounts effciently. 
 </p>
 <br />
 <img width="1462" height="1184" alt="image" src="https://github.com/user-attachments/assets/dfc48ccf-81e8-47d0-bdff-86c131358163"
