@@ -49,13 +49,13 @@ Step 2: create organizational units, users, and security groups I created Organz
  /><img width="1884" height="1192" alt="image" src="https://github.com/user-attachments/assets/ba4e9b0a-c5a2-411d-8f3a-4bad0510c91f"
  /><img width="1884" height="1192" alt="image" src="https://github.com/user-attachments/assets/56c8ddb9-95e0-403a-a904-f8593fae0209"
  /> Step 3: I configured folder permissions in Active directory to control which users and groups can access shared folders. I assigned the appropriate permissions to the Accounting group so authorized employees could access the Accounting folder. I also configured the restricted shared folder so unauthorized users would not have access. This helps protect company information and ensures employees only have access to the files they need to perform their jobs.
- />
- />
+ 
+ 
 
 
 <p><img width="1980" height="1308" alt="image" src="https://github.com/user-attachments/assets/7efcb9c9-c2d4-4f85-a18c-032aba19e245" />
 <img width="2226" height="1256" alt="image" src="https://github.com/user-attachments/assets/b218a5fc-89ff-45ac-be61-bf8d0b1ffc3a" />
 
-Step 4: I verified that my client computer, CLIENT-1 successfully joined the MYDOMAIN.COM domain. I used PowerShell to confirm domain connectivity and verify that the client could locate the domain controller(DC-1). I also checked the active directory user accounts to make sure they were properly created and enabled. this step confirms that the client computer can communicate with the domain.
+Step 4: Verify Domain connectivity and user accounts - I verified that my client computer, CLIENT-1 successfully joined the MYDOMAIN.COM domain. I used PowerShell to confirm domain connectivity and verify that the client could locate the domain controller(DC-1). I also checked the active directory user accounts to make sure they were properly created and enabled. this step confirms that the client computer can communicate with the domain and that active directory is functioning properly.
 </p>
 <br />
