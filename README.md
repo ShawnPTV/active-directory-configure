@@ -34,7 +34,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img width="2430" height="1686" alt="image" src="https://github.com/user-attachments/assets/7d889ffa-c6cf-496b-b2da-dddb3da4e23a" />
 </p>
 <p>
-In this figure: Installing and verifying active directory domain services and DNS roles in windows server manager. I had it installed already from a recent lab but this is one of the early steps in configuring active directory
+Step 1: Set up Virtual machines and install Active Directory Domain Services - I created and configured virtual machines in Microsoft Azure to build a windows server lab environment. I used one virtual machine as my domain controller and another as my client computer. after setting up the Virtual machines, I installed the Active Directory Domain Services (AD DS) role on the windows server. this prepares the server to manage domain users, computers, security groups, and network resources. this step establishes the foundation for the active directory environment. 
+ 
 </p>
 <br />
  />
