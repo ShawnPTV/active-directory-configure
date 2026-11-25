@@ -45,10 +45,10 @@ In this figure: Installing and verifying active directory domain services and DN
 Configured Active Directory Users and computers to manage user accounts and organize resources within the mydomain.com domain. created and organized organizational units (OUs) including _ADMINS, _CLIENTS, _EMPLOYEES, and _GROUPS, to seperate users, computers, and administrative resources.
 </p>
 <br />
-
-<img width="1462" height="1184" alt="image" src="https://github.com/user-attachments/assets/dfc48ccf-81e8-47d0-bdff-86c131358163" />
-<img width="1884" height="1192" alt="image" src="https://github.com/user-attachments/assets/ba4e9b0a-c5a2-411d-8f3a-4bad0510c91f" />
-<img width="1884" height="1192" alt="image" src="https://github.com/user-attachments/assets/56c8ddb9-95e0-403a-a904-f8593fae0209" />
+<img width="1462" height="1184" alt="image" src="https://github.com/user-attachments/assets/dfc48ccf-81e8-47d0-bdff-86c131358163"
+ /><img width="1884" height="1192" alt="image" src="https://github.com/user-attachments/assets/ba4e9b0a-c5a2-411d-8f3a-4bad0510c91f"
+ /><img width="1884" height="1192" alt="image" src="https://github.com/user-attachments/assets/56c8ddb9-95e0-403a-a904-f8593fae0209"
+ />
  />
  />
 
