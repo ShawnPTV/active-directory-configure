@@ -29,9 +29,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img width="2430" height="1686" alt="image" src="https://github.com/user-attachments/assets/7d889ffa-c6cf-496b-b2da-dddb3da4e23a" />
-<img width="2926" height="1116" alt="image" src="https://github.com/user-attachments/assets/f2907abf-5743-4f73-9fbb-91e0026918dd" />
 
+<img width="2926" height="1116" alt="image" src="https://github.com/user-attachments/assets/f2907abf-5743-4f73-9fbb-91e0026918dd" />
+<img width="2430" height="1686" alt="image" src="https://github.com/user-attachments/assets/7d889ffa-c6cf-496b-b2da-dddb3da4e23a" />
 </p>
 <p>
 In this figure: Installing and verifying active directory domain services and DNS roles in windows server manager. I had it installed already from a recent lab but this is one of the early steps in configuring active directory
